@@ -1,9 +1,7 @@
 <html>
+<head>
 <title> hello everyone</title>
-<style>
-background-color:green;
-text-align:centre;
-</style>
+</head>
 <body>
 this is a very simple web page
 </body>
